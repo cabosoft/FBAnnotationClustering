@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FBAnnotationClustering'
-  s.version          = '0.2.2'
+  s.version          = '0.2.2-Cabo'
   s.summary          = 'Clustering library for iOS maps'
   s.homepage         = 'https://github.com/infinum/FBAnnotationClustering'
   s.screenshots      = 'https://raw.githubusercontent.com/infinum/FBAnnotationClustering/master/Images/example.png'
